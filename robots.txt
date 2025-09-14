@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hfwen.github.io/sitemap.xml
+Sitemap: https://hfwen.github.io/hfwen.github.io/sitemap.xml
